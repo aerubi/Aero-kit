@@ -1,6 +1,6 @@
 ## Ello there 👋
 
-- 🌱 I’m currently learning (Java, JavaScript, Python, HTML)
+- 🌱 I’m currently learning (Java, JavaScript, Python, HTML, SQL)
   
 - 👯 I’m looking to collaborate on projects that are beginner friendly!
 

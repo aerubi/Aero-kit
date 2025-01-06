@@ -1,15 +1,15 @@
 ## Ello there 👋
 
-- 🌱 I’m currently learning (Java, JavaScript, Python, HTML, SQL)
+- 🌱 I’m currently learning (Java, JavaScript, Python, HTML, CSS, SQL)
   
-- 👯 I’m looking to collaborate on projects that are beginner friendly!
+- 👯 I would love to collaborate, but know I am not yet an expert!
 
 - 💬 If you wanna get in touch my Discord is: aerokit
 
 ## Fun facts:
-- ⚡ I want to expand my portfolio, and garner experience to one day create my own projects!
-- ⚡ I work full-time and college full-time! (The goal is to get a job in coding instead of retail.. T.T)
-- ⚡ I also do 2D and 3D rendering!
+- ⚡ I want to expand my portfolio, and garner experience to one day create my own game!
+- ⚡ I work full-time and college full-time! (The struggle is real!)
+- ⚡ I also do textures and dabble in creating 3D models!
 <!--
 **Aero-kit/Aero-kit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
